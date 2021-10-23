@@ -1,3 +1,2 @@
 I developed a one click installer https://github.com/RobertJamesKarash/oneclickinstaller 
-For https://epicmu.net and waiting for a direct download link to release open source (The Game for security is closed source).
-I there is an open source version of this game on GitHub https://github.com/MUnique/OpenMU
+For https://epicmu.net and waiting for a direct download link to release open source (The Game for security is closed source). There is an open source version of this game on GitHub https://github.com/MUnique/OpenMU
